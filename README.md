@@ -181,5 +181,5 @@ pi-net
 
 Start tinc with the `service` command
 ```
-sudo service tinc start
+sudo service tinc@pi-net start
 ```
